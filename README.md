@@ -2,6 +2,11 @@
 
 This project generates stunning infinite zoom videos using Stable Diffusion Inpainting. By iteratively zooming out (or in) and filling the new canvas space with AI-generated content, it creates a seamless tunnel-like video effect.
 
+<div align="center">
+  <video src="infinite_zoom_la.mp4" controls="controls" style="max-width: 730px;">
+  </video>
+</div>
+
 ## Features
 
 - **Stable Diffusion Inpainting**: Uses the `runwayml/stable-diffusion-inpainting` model for high-quality image generation.
